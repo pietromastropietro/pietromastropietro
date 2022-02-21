@@ -6,5 +6,5 @@ I love learning and experimenting with new languages and frameworks, and I can b
 Feel free to reach me out here or on my Linkedin: https://www.linkedin.com/in/pietromastropietro
 
 Main technical skills:
-- Languages: Javascript, HTML, CSS, NodeJS, Java, C, C++
+- Languages: Javascript, HTML, CSS, NodeJS, Java, C
 - Technologies and tools: ReactJS, ExpressJS, Spring, Angular, MongoDB, PostgreSQL, Git
